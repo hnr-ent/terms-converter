@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms Converter</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Terms Converter</h1>
+
+    <div class="brand-bx">
+        <button id="casi" class="brand-btn active" data-brand="casi" aria-pressed="true">Casi</button>
+        <button id="sports" class="brand-btn" data-brand="sports" aria-pressed="false">Sports</button>
+        <button id="acq" class="brand-btn" data-brand="acq" aria-pressed="false">ACQ</button>
+    </div>
+    <button id="convert-btn">Convert</button>
+    <button id="clear-btn" class="hide-me">Clear</button>
+
+    <div class="difference-bx">
+
+        <div id="casi-diff">
+            <h2>Casi Header/Title Requirements</h2>
+            <ul>
+                <li>Capitalized Case</li>
+                <li>Colon</li>
+            </ul>
+        </div>
+
+        <div id="sports-diff" style="display:none;">
+            <h2>Sports Header/Title Requirements</h2>
+            <ul>
+                <li>UPPER CASE</li>
+                <li>Underline</li>
+                <li>Colon</li>
+            </ul>
+        </div>
+
+        <div id="acq-diff" style="display:none;">
+            <h2>ACQ Header/Title Requirements</h2>
+            <ul>
+                <li>UPPER CASE</li>
+                <li><span class="red-me">No Underline</span></li>
+                <li><span class="red-me">No Colon / Semicolon</span></li>
+            </ul>
+        </div>
+
+    </div>
+
+<button class="copy" id="copy-btn">Copy</button>
+    <div id="converter-status" class="converter-status" role="status" aria-live="polite"></div>
+    <div class="textarea-bx">
+            
+        <textarea
+            id="terms-input"
+            placeholder="Enter your header here..."
+        ></textarea>
+
+        <textarea
+            id="terms-output"
+            placeholder="Converted header will appear here..."
+            readonly
+        ></textarea>
+    </div>
+
+    
+
+    <script src="config.js"></script>
+    <script src="script.js"></script>
+
+</body>
+</html>

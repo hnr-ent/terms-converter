@@ -1,0 +1,97 @@
+.red-me {
+    color: red;
+}
+
+.hide-me {
+    display: none;
+}
+
+html {
+     font-family: "Comfortaa", sans-serif;
+     font-size: 62.5%;
+     box-sizing: border-box;
+     text-align: center;
+}
+
+body {
+    background: rgb(47 58 79);
+    color: white;
+    padding: 0 5rem;
+}
+
+
+.brand-bx {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    gap: 2rem;
+    padding: 2rem;
+
+    button {
+        border-radius: 1rem;
+        width: 10rem;
+        height: 5rem;
+
+        &:hover {
+            cursor: pointer;
+        }
+    }
+}
+
+.textarea-bx {
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem;
+    margin: 0 auto;
+    gap: 5rem;
+    width: 90%;
+}
+     textarea {
+        width: 100%;
+        resize: none;
+        border-radius: 1rem;
+        height: 70vh;;
+     }
+
+
+.difference-bx {
+    
+    /* h2 {
+        margin-left: 4rem;
+    } */
+
+    ul {
+        margin-right: 4rem;
+    }
+    ul > li {
+        list-style: none;
+    }
+}
+
+.brand-btn.active {
+background: #0078d4;
+color: white;
+}
+
+.copy {
+    margin-left: 85%;
+    border-radius: 1rem;
+    width: 7rem;
+    height: 3rem;
+
+    &:hover {
+        cursor: pointer;
+    }
+}
+
+#convert-btn {
+
+    border-radius: 1rem;
+    width: 7rem;
+    height: 3rem;
+
+    &:hover {
+        cursor: pointer;
+    }
+}
+    
