@@ -12,14 +12,18 @@ const CONVERTER_CONFIG = {
     // ==================================================
 
     allowedHeaders: [
+        "Promotion Period",
         "Description of Promotion",
         "Promotional Period",
         "Eligibility",
         "Action Required",
         "Claiming Promotional Offer",
+        "Claiming Promotions Offer",
         "Registration Procedure",
+        "Registration Procedures",
         "Limitations on Participation",
         "Wagering Requirement",
+        "Wagering Requirements",
         "Order of Funds Used for Wagering",
         "Eligible Game",
         "Eligible Games",
