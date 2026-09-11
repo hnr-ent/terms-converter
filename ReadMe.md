@@ -1,4 +1,4 @@
-# Terms Checker
+# Terms Brand-Label Converter
 Converts the Headers/Titles of the T&C based off the labels/brand your current task.
 
 <hr>
