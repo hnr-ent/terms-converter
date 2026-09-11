@@ -103,8 +103,11 @@ function cleanHeader(text) {
 
 function isAllowedHeader(text) {
 
-    return CONVERTER_CONFIG.allowedHeaders.includes(
-        cleanHeader(text)
+    const cleaned =
+        cleanHeader(text);
+
+    return CONVERTER_CONFIG.allowedHeaders.some(
+        header => header.toLowerCase() === cleaned.toLowerCase()
     );
 
 }
@@ -113,9 +116,19 @@ function normalizeHeader(text) {
 
     const cleaned = cleanHeader(text);
 
+    const canonicalHeader =
+        CONVERTER_CONFIG.allowedHeaders.find(
+            header => header.toLowerCase() === cleaned.toLowerCase()
+        )
+        || cleaned;
+
+    const alias =
+        Object.entries(CONVERTER_CONFIG.headerAliases).find(
+            ([key]) => key.toLowerCase() === canonicalHeader.toLowerCase()
+        );
+
     return (
-        CONVERTER_CONFIG.headerAliases[cleaned]
-        || cleaned
+        alias ? alias[1] : canonicalHeader
     );
 
 }
@@ -234,6 +247,10 @@ function isHeaderParagraph(paragraph) {
         return false;
     }
 
+    if (paragraph.children.length === 0) {
+        return true;
+    }
+
     if (paragraph.children.length !== 1) {
         return false;
     }
@@ -246,6 +263,22 @@ function isHeaderParagraph(paragraph) {
     }
 
     return child.tagName === "STRONG";
+
+}
+
+function convertHeaderText(text) {
+
+    if (!isAllowedHeader(text)) {
+        return text;
+    }
+
+    const brandRules =
+        BRAND_CONFIG[activeBrand];
+
+    return applyUnderline(
+        convertHeader(text),
+        brandRules.header
+    );
 
 }
 
@@ -267,33 +300,30 @@ function processTerms(htmlString) {
     const paragraphs =
         doc.querySelectorAll("p");
 
+    if (paragraphs.length === 0) {
+        return convertHeaderText(
+            doc.body.textContent.trim()
+        );
+    }
+
     paragraphs.forEach(paragraph => {
 
         if (!isHeaderParagraph(paragraph)) {
             return;
         }
 
-        const strong =
-            paragraph.firstElementChild;
+        const headerElement =
+            paragraph.firstElementChild || paragraph;
 
         const originalText =
-            strong.textContent.trim();
+            headerElement.textContent.trim();
 
         if (!isAllowedHeader(originalText)) {
             return;
         }
 
-        const convertedText =
-            convertHeader(originalText);
-
-        const brandRules =
-            BRAND_CONFIG[activeBrand];
-
-        strong.innerHTML =
-            applyUnderline(
-                convertedText,
-                brandRules.header
-            );
+        headerElement.innerHTML =
+            convertHeaderText(originalText);
 
     });
 

@@ -21,6 +21,7 @@ const CONVERTER_CONFIG = {
         "Claiming Promotions Offer",
         "Registration Procedure",
         "Registration Procedures",
+        "Limitation on Participation",
         "Limitations on Participation",
         "Wagering Requirement",
         "Wagering Requirements",

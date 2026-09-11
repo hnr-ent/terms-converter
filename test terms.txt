@@ -1,0 +1,131 @@
+<p><strong>DESCRIPTION OF PROMOTION</strong></p>
+<ul>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint magni provident, esse temporibus illum debitis quibusdam corporis, similique molestiae modi dicta itaque, in beatae tenetur praesentium quam eveniet assumenda? Tempore voluptate aliquam necessitatibus cumque quibusdam quisquam inventore, hic mollitia provident.</li>
+</ul>
+<p><strong>PROMOTIONAL PERIOD</strong></p>
+<ul>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quos esse soluta ipsam commodi officiis magnam ratione omnis fugit iste culpa aliquam ab blanditiis, quis neque. Deserunt est libero fugit hic animi, repudiandae beatae alias iure officiis cum expedita sit, non obcaecati eius quis.</li>
+</ul>
+<p><strong>ELIGIBILITY</strong></p>
+<ul>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa voluptates numquam sapiente exercitationem doloremque eum fugit voluptatibus quos velit. Aut voluptatum iusto earum aspernatur eius rerum nemo? Enim, dignissimos obcaecati!</li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero obcaecati hic molestias, magnam commodi deserunt aperiam, explicabo illum error ad laboriosam doloribus temporibus accusamus ab!/li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga, delectus praesentium. Officiis enim dolorum blanditiis. Cum unde temporibus adipisci excepturi at eveniet tenetur esse quod aut, doloribus culpa atque veritatis.</li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque pariatur, sed aut sequi eaque nam illo soluta quas numquam maxime eligendi culpa commodi assumenda itaque fugit et temporibus natus, quae distinctio molestias odio aliquid. Blanditiis fugit obcaecati quisquam dignissimos, quod facilis, atque quia asperiores, sunt odit nemo reiciendis deserunt sint. Suscipit fuga quasi dolor totam.</li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit dolore, voluptatum sed nemo sequi et?</li>
+</ul>
+<p><strong>ACTION REQUIRED</strong></p>
+<ul>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum nostrum debitis excepturi eos corrupti, in accusantium natus a numquam consequuntur asperiores dolore neque inventore vel.</li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. A iste excepturi dolore quis perspiciatis ab cum non esse sunt vel.</li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita reiciendis hic delectus officia culpa laboriosam numquam nisi reprehenderit nobis exercitationem tempora, qui quia, voluptates voluptatem dolorum dicta quasi voluptas saepe voluptatibus deserunt repudiandae. Labore qui, officiis, dicta porro veritatis accusantium culpa assumenda blanditiis doloribus minus sapiente accusamus fugiat soluta ab.</li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore exercitationem veritatis expedita velit placeat neque perspiciatis similique eius qui unde minima cumque aliquam, animi veniam?
+<ul>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
+<li>Lorem ipsum dolor sit amet consectetur.</li>
+<li>Lorem ipsum, dolor sit amet consectetur adipisicing.</li>
+<li><strong>Lorem, ipsum.</strong>
+<ul>
+<li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Deleniti pariatur repellat officiis iste, esse temporibus velit quaerat blanditiis culpa nesciunt recusandae, cupiditate ipsam delectus alias voluptates distinctio, reprehenderit ratione ab!</li>
+<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat, voluptatem impedit reiciendis maiores deserunt obcaecati aut quam aliquid, accusantium sapiente doloremque? Ducimus perferendis fuga corrupti?
+</li>
+<li>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corporis quia recusandae alias fugiat eaque neque ut consequatur sequi aliquid eum!</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam totam cumque illum? Ducimus, deserunt incidunt.</li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque sunt officiis reiciendis velit facere eius nisi similique enim quaerat tenetur. Officia placeat deleniti quisquam sint!</li>
+<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur, alias inventore! Dolore error numquam ullam ab repellendus recusandae aut ad amet, sed eligendi, ut quae nostrum porro? Officiis, dolorem consequuntur.</li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, unde perferendis, voluptate ducimus accusantium tempora rem distinctio dolore est saepe eveniet doloremque necessitatibus tenetur veniam!</li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, ducimus!</li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, necessitatibus corporis? Ea voluptatum amet quaerat nihil! Quaerat voluptatibus rerum cum quis vitae vero, ipsa corporis?</li>
+<li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. At dolorem atque in, architecto iste autem eos. Dolor, dolorem recusandae nulla quia neque distinctio voluptatibus doloribus.</li>
+</ul>
+<p><strong>CLAIMING PROMOTIONAL OFFER</strong></p>
+<ul>
+<li><strong>Lorem, ipsum.</strong>
+<ul>
+<li>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quo, temporibus quae voluptate consequuntur quaerat reiciendis exercitationem doloremque. Necessitatibus, temporibus harum!</li>
+<li>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestias iure repudiandae aliquam. Iure aperiam asperiores reiciendis quas suscipit repellat itaque voluptatibus nam enim eum! Amet?</li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, consequuntur.</li>
+</ul>
+</li>
+<li><strong>Lorem, ipsum.</strong>
+<ul>
+<li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ab, commodi?</li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, quaerat.</li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum iusto, pariatur reprehenderit impedit quis repellendus hic saepe? Vel facere necessitatibus perferendis blanditiis omnis illum dolorum dolore, vitae accusantium veritatis consectetur?</li>
+</ul>
+</li>
+<li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos quia quas sequi illo error illum qui explicabo, dolore voluptatum debitis praesentium non assumenda veniam voluptates.</li>
+<li>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci dolores maiores facere nesciunt itaque voluptatibus ullam magnam nostrum. Debitis asperiores itaque error, accusantium eaque officiis.</li>
+<li><strong>BRPs</strong>
+<ul>
+<li>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ratione omnis minus rem suscipit, officia id atque minima, veritatis eum dolorem blanditiis nam inventore ipsum doloremque deleniti assumenda iure neque. Corrupti rem nam distinctio, temporibus hic facilis aspernatur dicta officia mollitia necessitatibus quis soluta facere animi voluptatem sequi maxime tenetur assumenda ullam omnis vero laudantium explicabo enim veniam voluptates! Eius, quis quisquam autem magnam veritatis incidunt blanditiis, esse consequuntur quidem earum doloribus in beatae iusto eligendi. Soluta itaque dolorum perferendis ex expedita minima voluptas vitae ipsum incidunt, porro voluptatum, qui, possimus saepe illum? Ducimus velit dolores aut, eaque adipisci sit, accusantium maxime quis, autem molestias explicabo quae eum quia deleniti debitis recusandae odit suscipit possimus? Sit doloribus voluptatem porro, culpa tempora repellendus voluptate alias dolore iusto minus asperiores nihil cum numquam. Minus, pariatur. Ducimus aliquid tempore eligendi odio, ex earum, voluptatibus sint fuga, consectetur maxime cupiditate incidunt laborum aspernatur suscipit magnam!</li>
+<li>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officia, consequuntur dicta! Eveniet obcaecati corporis suscipit. Illo vitae, necessitatibus ipsam voluptates obcaecati omnis blanditiis laborum. Hic.</li>
+<li>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Necessitatibus consectetur itaque neque sapiente. Illum, nisi.</li>
+</ul>
+</li>
+</ul>
+<p><strong>LIMITATION ON PARTICIPATION</strong></p>
+<ul>
+<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam ex voluptatum odio, accusantium eum temporibus reiciendis aliquam id aperiam sapiente tempora commodi iure quos. Consectetur accusantium eos sit exercitationem dolorem nulla eaque, repellendus reiciendis sint?</li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae, inventore aliquam quas doloribus voluptates sunt cumque, assumenda facilis dolores enim sed porro necessitatibus illo fuga error nam obcaecati praesentium quae.</li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus repellat ipsam quisquam assumenda, odio in nemo laudantium totam rem, fugiat ullam animi neque odit aspernatur amet possimus nesciunt fugit ad vero? Dolore sint quibusdam molestiae? Dicta autem amet velit officia?</li>
+</ul>
+<p><strong>WAGERING REQUIREMENT</strong></p>
+<ul>
+<li><strong>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sequi quibusdam temporibus fugiat? Voluptatibus ea iusto numquam architecto, omnis pariatur maiores.</strong>
+<ul>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sint, mollitia autem atque ducimus fugiat blanditiis! Consequuntur facere illo unde id. Ullam sit enim eos.</li>
+</ul>
+</li>
+<li><strong>Deposit Match</strong>
+<ul>
+<li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consectetur, ratione sint fuga architecto animi ea suscipit corporis consequatur, enim placeat quasi libero magni odit deleniti.</li>
+<li>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum quae aliquam doloribus ad voluptate animi deleniti enim mollitia, vitae illum architecto quo vel inventore atque harum aliquid. Nisi eos itaque nesciunt voluptatum totam provident saepe?</li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus ipsa, minima fuga dolore consequuntur officiis, laborum assumenda hic adipisci sit cum vitae ipsum suscipit beatae dignissimos saepe sequi recusandae odio?</li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, rem.</li>
+<li>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maxime esse reprehenderit expedita? Dolorem praesentium at animi repellendus vel modi consequatur reprehenderit, non et veniam, eveniet repudiandae, soluta fugiat ipsa necessitatibus.</li>
+<li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam, nobis, perspiciatis cumque optio iste ipsa voluptatibus, commodi amet dignissimos itaque esse nam accusantium dolorem magnam doloribus et deleniti! Eaque enim quis ipsum ad rerum mollitia? Illum obcaecati dolorem quod culpa eligendi provident voluptas error doloribus asperiores harum rem sed voluptatem fuga quia quaerat iusto temporibus nulla, possimus nesciunt doloremque, mollitia odit? Ratione, facere earum adipisci exercitationem enim molestiae omnis quaerat rerum! Architecto tenetur perspiciatis amet suscipit saepe autem accusamus soluta tempora voluptas accusantium nam praesentium aut, quia rerum culpa earum facilis eum voluptate inventore mollitia atque? Quia accusamus corporis explicabo.</li>
+</ul>
+</li>
+</ul>
+<p><strong>ORDER OF FUNDS USED FOR WAGERING</strong></p>
+<ul>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo velit consectetur quod eos consequatur vitae odio? Sapiente maiores consequuntur assumenda, repellendus dolor omnis deleniti quam?</li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur deleniti iusto nemo tempore velit. Facere?</li>
+</ul>
+<p><strong>ELIGIBLE GAMES</strong></p>
+<ul>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet quasi, debitis voluptatum cum amet numquam autem veniam maxime. Dignissimos, minima.</li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos exercitationem eum itaque pariatur maxime adipisci officiis consequatur quo cumque cum, blanditiis sunt, commodi repellat? Nihil.</li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis eaque, veritatis dolore magni sit saepe! Saepe ex dolorem, quia consectetur autem aliquam magni culpa delectus aspernatur nostrum dicta repellat sint nisi beatae dignissimos provident, aliquid nihil. Facilis placeat veniam, adipisci non consequuntur velit a harum iste quo ex nam modi?</li>
+</ul>
+<p><strong>WITHDRAWAL RESTRICTIONS</strong></p>
+<ul>
+<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur animi doloribus accusantium repellendus libero nulla, a ipsum debitis reprehenderit nostrum facilis, sint numquam, obcaecati maiores consequuntur voluptate hic consectetur eius nihil quos repellat! Aperiam modi recusandae aspernatur itaque mollitia tenetur, culpa tempore impedit laborum obcaecati quidem velit enim illum vel?</li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam facere consequuntur esse totam beatae accusantium.</li>
+<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, reiciendis vel, vero facere molestias iure harum et, iusto minima delectus natus? Laboriosam, nisi placeat? Accusamus, maiores possimus? Officiis, suscipit commodi.</li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam veniam nisi, alias velit culpa porro?</li>
+<li>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellat, expedita!</li>
+<li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Modi, esse?</li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores unde rem excepturi, assumenda sapiente aperiam sed minus reiciendis, totam, commodi tempore suscipit vero laboriosam cupiditate.</li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi, incidunt.</li>
+</ul>
+<p><strong>IMPORTANT TERMS</strong></p>
+<ul>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure illo nihil architecto a animi, tempore tempora dolorum, modi ducimus ea inventore unde atque nam voluptates obcaecati vel perferendis labore fuga? Saepe repudiandae impedit explicabo. Facere eveniet modi facilis ipsam debitis.</li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus cum, possimus magnam assumenda, ea repellat maiores unde eligendi minus commodi dolor voluptate perspiciatis reprehenderit. Odit reprehenderit magnam voluptates eligendi delectus vitae deserunt ut eveniet voluptatibus ullam, facilis doloremque, quam quo excepturi molestiae consequuntur cumque, sequi vel quisquam! Consectetur ea voluptate unde rem quibusdam debitis ut praesentium, qui odit. Quaerat laboriosam ducimus ex iusto dolorem nisi, obcaecati reprehenderit praesentium accusamus tempore quam hic officiis, dicta ipsa fugiat eveniet voluptates excepturi sed impedit, voluptatem dolore. Magnam in quos beatae distinctio sequi. Dolorum exercitationem ipsa, similique impedit, dicta assumenda quam deleniti est consectetur pariatur architecto earum voluptatum necessitatibus minima obcaecati nesciunt quod aperiam nemo. Cupiditate alias possimus, explicabo commodi itaque natus ut sapiente quis quod aliquam, esse repellat autem quam voluptatem, beatae corporis repudiandae unde quidem sint eum harum laudantium nobis mollitia. Minima architecto ea ullam harum tempora voluptate sed, quam aperiam numquam quis illum? Laborum tempora laudantium ipsa est, ex ab quo dolores quisquam quos dolorum consequuntur dolor voluptatem dolore aliquid vero impedit praesentium libero magnam unde iste saepe? Earum voluptatem, numquam commodi nesciunt consequuntur eveniet adipisci fugiat dolor, rerum laboriosam labore impedit, voluptate itaque obcaecati delectus animi mollitia. Accusamus, reprehenderit tempore.</li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet hic ipsam deleniti rerum quo, aut vero nesciunt sint cumque quasi libero impedit itaque natus dolorem aperiam dolores repudiandae sit labore sapiente veniam? At aliquid, maiores quod deserunt dicta fugiat perferendis quos hic aspernatur blanditiis, vitae cumque voluptates dolorem quia porro. Excepturi quasi sed praesentium temporibus enim voluptatum numquam iste fugiat ad molestiae. Ullam doloremque amet quas vero, doloribus voluptas perspiciatis, iure velit saepe aspernatur labore repudiandae quasi soluta, vitae reprehenderit quia libero hic. Recusandae quo voluptatibus maxime commodi repellendus consectetur mollitia beatae, deserunt dolor fugit doloribus ipsam optio corrupti minus?</li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum itaque perspiciatis iusto mollitia qui, sint obcaecati tempore accusamus praesentium est nobis corrupti expedita quia harum explicabo provident neque sunt id corporis veritatis culpa placeat laborum officia rerum! Molestiae eligendi quidem quaerat harum dolorem, rerum ut aut blanditiis commodi iste nostrum laboriosam quis modi soluta in suscipit asperiores dolore voluptatem quia facilis quibusdam. Id sit assumenda corrupti aliquid expedita non rem veritatis delectus modi, optio deleniti possimus dignissimos itaque, libero aut dolorem. Quibusdam, iste nihil illum est quia sed a, nam deserunt libero distinctio architecto ab provident nostrum ipsam vitae corrupti.</li>
+<li>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Enim amet dolorum quis aspernatur temporibus nobis repellendus ratione magni aliquam consequatur.</li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore quasi, atque, ut ipsum accusamus officiis minima voluptatum error fugiat quo, nam nisi. Vel quas ipsa quaerat temporibus alias error necessitatibus ullam fugit cumque? Error dolore nobis aperiam, eius exercitationem eaque sint quas quasi asperiores debitis tempore sunt quidem fuga animi quod, ipsam quae voluptatibus expedita. Corporis atque quod harum dolorum. At quo ad iste nesciunt.</li>
+<li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Saepe a doloremque, eligendi ullam nostrum alias velit voluptatibus nulla fugiat porro.</li>
+<li>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus beatae voluptate hic quis alias earum debitis eveniet autem animi ipsum voluptates ipsam totam nisi, sunt sint. Illo ipsam nemo molestias.</li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt ipsum placeat odit, soluta veritatis hic itaque aperiam sed voluptate iste!</li>
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. A, rerum!</li>
+</ul>
+<p>Gaming Problem? Call 1-800-GAMBLER.</p>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita magnam, aspernatur qui odio iure temporibus voluptatem molestias explicabo sunt iusto accusantium doloremque rerum commodi neque. Nisi eaque, soluta aspernatur distinctio voluptas cumque animi accusantium? Quibusdam nam iusto nobis rem assumenda.</p>
