@@ -73,8 +73,8 @@ background: #0078d4;
 color: white;
 }
 
-.copy {
-    margin-left: 85%;
+.copy, .sample {
+    /* margin-left: 85%; */
     border-radius: 1rem;
     width: 7rem;
     height: 3rem;
@@ -95,3 +95,21 @@ color: white;
     }
 }
     
+
+.sample-copy-bx {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 5%;
+
+    a {
+        text-decoration: none;
+        color: black;
+    }
+
+    i {
+        padding-top: 1rem;
+        font-size: .8rem;
+        /* margin-left: -50%; */
+        text-align: left;
+    }
+}
